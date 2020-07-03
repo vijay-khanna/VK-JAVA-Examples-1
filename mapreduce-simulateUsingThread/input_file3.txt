@@ -1,6 +1,0 @@
-" 1,515,507,894,000.00 ",xyz@gmail.com,DeviceId004,iPhone7Plus:IOS 10.3.3:Safari,Veg Extravaganza,Y,M,NULL,500,CRAZYFRI,Delivered,Y,,,,,,,,,,,,,,
-" 1,515,507,904,000.00 ",aef@gmail.com,DeviceId005,SamsungGalaxyS6:Android 6.0 Marshmallow:App,Pizza Mania,Y,M,NULL,200,NULL,Delivered,Y,,,,,,,,,,,,,,
-" 1,515,507,874,000.00 ",,DeviceId0033,iPhone7Plus:IOS 10.3.3:Safari,Farmhouse,Y,L,Chicken,600,NULL,Delivered,Y,,,,,,,,,,,,,,
-" 1,515,507,914,000.00 ",pnda@gmail.com,DeviceId006,iPhone11:IOS 13.0.0:Safari,Chicken dominator,N,R,Pineapple:Paneer,400,NULL,Delivered,N,,,,,,,,,,,,,,
-" 1,515,507,914,000.00 ",hithere@gmail.com,DeviceId0054,,Veg Extravaganza,Y,M,NULL,500,CRAZYFRI,Delivered,Y,,,,,,,,,,,,,,
-" 1,515,507,924,000.00 ",appl2@gmail.com,DeviceId007,iPhone7Plus:IOS 10.3.3:Safari,Farmhouse,Y,R,Chicken,600,NULL,Delivered,Y,,,,,,,,,,,,,,
